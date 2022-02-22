@@ -1,0 +1,7 @@
+icon Theme : https://github.com/USBA/Cupertino-iCons/
+
+GTK Themes : https://github.com/paullinuxthemer/Mc-OS-themes
+
+Plank Themes : https://www.gnome-look.org/p/1308399/
+
+Cursor Theme : https://github.com/vinceliuice/McMojave-cursors
