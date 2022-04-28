@@ -1,5 +1,6 @@
 # pearOS-HighMojave
 a pearOS version based on Ubuntu budgie with budgie desktop environment
+(THIS VERSION IS IN PAUSE, THE DEVELOPMENT ISN'T STOPPED)
 
 ## Preview
 
